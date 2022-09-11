@@ -24,7 +24,3 @@
         <img title="brulinekk" alt="brulinekk" src="https://github-readme-streak-stats.herokuapp.com/?user=brulinekk&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<a href="https://github.com/brulinekk/coins_shop">
-  <img align="center" src="https://brulinekk/?username=brulinekk&repo=coins_shop" />
-</a>
