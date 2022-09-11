@@ -1,11 +1,11 @@
-<h1 align="center">Yoł 👋, I'm brulinekk</h1>
-<h3 align="center">I am developer in FiveM</h3>
+<h1 align="center">Yoł 👋, Jestem brulinekk</h1>
+<h3 align="center">Jestem developerem serwerów na platformie FiveM</h3>
 
-- 🔭 I’m currently working on **coins_shop**
+- 🔭 Obecnie pracuję nad **coins_shop**
 
-- 🌱 I’m currently learning **js, lua**
+- 🌱 Obecnie się uczę **js, lua**
 
-- 📫 How to reach me **discord: brulinekk#7070**
+- 📫 Jak się ze mną skontaktować **discord: brulinekk#7070**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
