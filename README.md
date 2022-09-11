@@ -2,6 +2,8 @@
 <h1 align="center">Yoł 👋, Jestem brulinekk</h1>
 <h3 align="center">Jestem developerem serwerów na platformie FiveM</h3>
 
+## Dotyczące mnie 🙋🏽‍♂️
+
 - 🔭 Obecnie pracuję nad **coins_shop**
 
 - 🌱 Obecnie się uczę **js, lua**
