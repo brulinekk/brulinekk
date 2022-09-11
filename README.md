@@ -7,7 +7,7 @@
 
 - 📫 Jak się ze mną skontaktować **discord: brulinekk#7070**
 
-<h3 align="left">Połącz się ze mną:</h3>
+<h3 align="left">YouTube/Discord:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/brulinekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" /></a>
 <a href="https://discord.gg/brulinekk#7070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brulinekk#7070" height="30" width="40" /></a>
