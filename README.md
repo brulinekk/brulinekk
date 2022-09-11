@@ -24,3 +24,10 @@
         <img title="brulinekk" alt="brulinekk" src="https://github-readme-streak-stats.herokuapp.com/?user=brulinekk&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<a href="https://github.com/brulinekk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brulinekk&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/brulinekk/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brulinekk&repo=convoychat" />
+</a>
