@@ -26,5 +26,5 @@
 </p>
 
 <a href="https://github.com/brulinekk/coins_shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brulinekk&repo=coins_shop" />
 </a>
