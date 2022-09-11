@@ -31,11 +31,3 @@
     <a href="https://github.com/brulinekk/github-readme-stats"><img alt="brulinekk Github Stats" src="https://github-readme-stats.vercel.app/api?username=brulinekk&show_icons=true&count_private=true&theme=midnight-purple&hide_border=false&bg_color=0D1117" /></a>
   <a href="https://github.com/brulinekk/github-readme-stats"><img alt="brulinekk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulinekk&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=0D1117" /></a>
   <br/>
-
-<br/>
-<br/>
-
-<a href="https://github.com/brulinekk/github-readme-activity-graph"><img alt="brulinekk Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brulinekk&bg_color=5046451&color=5046451&line=5046451&point=5046451&hide_border=true" /></a>
-
-<br/>
-<br/>
