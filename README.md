@@ -4,10 +4,6 @@
 
 ## Dotyczące mnie 🙋🏽‍♂️
 
-- 🔭 Obecnie pracuję nad **coins_shop**
-
-- 🌱 Obecnie się uczę **js, lua**
-
 - 📫 Jak się ze mną skontaktować **discord: brulinekk#7070**
 
 ## Projekt LuaRDM 🤴🏽
