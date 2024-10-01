@@ -7,8 +7,3 @@
   <h3>LICZNIK WIZYT</h3>
   <img src="https://profile-counter.glitch.me/brulinekk/count.svg" alt="LICZNIK WIZYT" />
 </div>
-<div align="right">
-  <a href="https://github.com/brulinekk/github-readme-stats">
-    <img alt="brulinekk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulinekk&langs_count=8&count_private=true&theme=midnightpurple&bg_color=0D1117" />
-  </a>
-</div>
