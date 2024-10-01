@@ -6,7 +6,7 @@
 
 ## YouTube
 <p align="center">
-<a href=https://www.youtube.com/@brulinekk target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" /></a>
+<a href=https://www.youtube.com/@brulinekk target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" />brulinekk</a>
 </p>
 
 ## 📊 Statystyki GitHub
