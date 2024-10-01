@@ -4,9 +4,7 @@
 </p></h1>
 
 ### Kontakt do mnie: 
-<br>
 「 <img align="center" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>https://discord.gg/fivepvppl 」
-<br />
 
 <div align="left">
   <h3>LICZNIK WIZYT</h3>
