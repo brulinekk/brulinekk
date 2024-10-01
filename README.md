@@ -1,7 +1,7 @@
 <h1 align="center">brulinekk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl" />
+  <h3>Kontakt: </h3><img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl" />
 </p>
   <a href=https://www.youtube.com/@brulinekk target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" />brulinekk</a>
 ## 📊 Statystyki GitHub
