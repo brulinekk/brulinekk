@@ -5,7 +5,7 @@
 
 ### Kontakt do mnie: 
 
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/T6anudJ2CX 」
+「 <img align="center" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/fivepvppl 」
 <br />
 
 <div align="left">
