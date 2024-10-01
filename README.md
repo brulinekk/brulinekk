@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Yoł</h1>
 
 ## Dotyczące mnie 🙋🏽‍♂️
