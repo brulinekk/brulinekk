@@ -1,6 +1,6 @@
 ## Dotyczące mnie 🙋🏽‍♂️
 
-- 📫 Jak się ze mną skontaktować **discord: brulinekk#7070**
+- Jak się ze mną skontaktować? napisz na discord **brulinekk**
 
 ## YouTube | Discord:
 <p align="left">
