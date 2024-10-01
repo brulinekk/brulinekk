@@ -1,7 +1,6 @@
 <h1 align="center">Brulin Ekk
 <p align="center">
-  H
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl" />
+  「 <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl"/> 」
 </p>
 </h1>
 
