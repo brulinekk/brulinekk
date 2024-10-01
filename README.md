@@ -5,7 +5,6 @@
 <br/>
 
 <table style="width: 100%;">
-  <tr>
     <td style="text-align: left;">
       <img src="https://profile-counter.glitch.me/brulinekk/count.svg" alt="LICZNIK WIZYT" />
     </td>
@@ -14,5 +13,4 @@
         <img alt="brulinekk Top Languages" src="https://readme-typing-svg.herokuapp.com/?username=brulinekk&langs_count=8&count_private=true&layout=compact&theme=midnightpurple&hide_border=false&bg_color=0D1117" />
       </a>
     </td>
-  </tr>
 </table>
