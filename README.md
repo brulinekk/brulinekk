@@ -1,7 +1,6 @@
 <h1 align="center">brulinekk</h1>
 
 <p align="center">
-  <h2 src="center=true">Jak sie ze mną skontaktować?</h2>
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl" />
 </p>
 
