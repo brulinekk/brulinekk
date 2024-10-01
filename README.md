@@ -1,5 +1,3 @@
-<h1 align="center">Yoł</h1>
-
 ## Dotyczące mnie 🙋🏽‍♂️
 
 - 📫 Jak się ze mną skontaktować **discord: brulinekk#7070**
