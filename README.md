@@ -5,9 +5,8 @@
 <br/>
 
 <div align="left">
-  <h3>LICZNIK WIZYT
+  <h3>LICZNIK WIZYT</h3>
   <img src="https://profile-counter.glitch.me/brulinekk/count.svg" alt="LICZNIK WIZYT" />
-  </h3>
 </div>
 <div align="right">
   <a href="https://github.com/brulinekk/github-readme-stats">
