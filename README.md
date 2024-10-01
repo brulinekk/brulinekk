@@ -4,6 +4,11 @@
 </p></h1>
 <br/>
 
+### Kontakt do mnie: 
+
+「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/T6anudJ2CX 」
+<br />
+
 <div align="left">
   <h3>LICZNIK WIZYT</h3>
   <img src="https://profile-counter.glitch.me/brulinekk/count.svg" alt="LICZNIK WIZYT" />
