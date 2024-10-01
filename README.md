@@ -4,6 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/fivepvppl" />
 </p></h1>
 <h3 align="center">LICZNIK WIZYT</h3>
-<p align="center">
+<p>
   <img src="https://profile-counter.glitch.me/brulinekk/count.svg" alt="LICZNIK WIZYT" />
 </p>
