@@ -7,8 +7,8 @@
 
 ## YouTube | Discord:
 <p align="left">
-<a href="https://www.youtube.com/c/brulinekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" /></a>
-<a href="https://discord.gg/brulinekk#7070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brulinekk#7070" height="30" width="40" /></a>
+<a href=https://www.youtube.com/@brulinekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brulinekk" height="30" width="40" /></a>
+<a href="https://discord.gg/fivepvppl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brulinekk" height="30" width="40" /></a>
 </p>
 
 ## 📊 Statystyki GitHub
