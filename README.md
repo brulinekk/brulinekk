@@ -1,6 +1,8 @@
 <h1 align="center">brulinekk
 <p align="center">
   [<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0a6b91&height=18&width=270&lines=+discord.gg/fivepvppl" />]
+</p>
+  <p>
   [<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0a6b91&height=18&width=270&lines=+discord.gg/snailyteam" />]
 </p>
 </h1>
