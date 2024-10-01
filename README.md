@@ -10,6 +10,6 @@
 </div>
 <div align="right">
   <a href="https://github.com/brulinekk/github-readme-stats">
-    <img alt="brulinekk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulinekk&langs_count=8&count_private=true&theme=midnightpurple" />
+    <img alt="brulinekk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulinekk&langs_count=8&count_private=true&theme=midnightpurple&bg_color=0D1117" />
   </a>
 </div>
