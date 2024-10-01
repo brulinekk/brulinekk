@@ -7,4 +7,4 @@
   <br/>
  
  ### LICZNIK WIZYT
-  ![LICZNIK WIZYT](https://profile-counter.glitch.me/brulinekk/count.svg)
+![LICZNIK WIZYT](https://profile-counter.glitch.me/brulinekk/count.svg)
